@@ -9,3 +9,6 @@ const firstNumber = 10;
 const secondNumber = 20;
 const result = firstNumber + secondNumber;
 ```
+- [x] Task 1
+- [ ] Task 2
+- [ ] Task 3
